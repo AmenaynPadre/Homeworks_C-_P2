@@ -1,0 +1,14 @@
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\bin\Debug\net8.0\MyStack.exe
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\bin\Debug\net8.0\MyStack.deps.json
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\bin\Debug\net8.0\MyStack.runtimeconfig.json
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\bin\Debug\net8.0\MyStack.dll
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\bin\Debug\net8.0\MyStack.pdb
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\obj\Debug\net8.0\MyStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\obj\Debug\net8.0\MyStack.AssemblyInfoInputs.cache
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\obj\Debug\net8.0\MyStack.AssemblyInfo.cs
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\obj\Debug\net8.0\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\obj\Debug\net8.0\MyStack.dll
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\obj\Debug\net8.0\refint\MyStack.dll
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\obj\Debug\net8.0\MyStack.pdb
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\obj\Debug\net8.0\MyStack.genruntimeconfig.cache
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork1\MyStack\obj\Debug\net8.0\ref\MyStack.dll

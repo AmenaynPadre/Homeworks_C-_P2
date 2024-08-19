@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork1", "HomeWork1", "{62C663C9-0DF8-409B-89A6-66D2BD01C46F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStack", "HomeWork1\MyStack\MyStack.csproj", "{BEE9A66D-DD45-4A5E-9B40-903E60AC7A74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE9A66D-DD45-4A5E-9B40-903E60AC7A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE9A66D-DD45-4A5E-9B40-903E60AC7A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE9A66D-DD45-4A5E-9B40-903E60AC7A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE9A66D-DD45-4A5E-9B40-903E60AC7A74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BEE9A66D-DD45-4A5E-9B40-903E60AC7A74} = {62C663C9-0DF8-409B-89A6-66D2BD01C46F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C5F1CB0-1C5E-43F5-A1C9-112132B16885}
+	EndGlobalSection
+EndGlobal
