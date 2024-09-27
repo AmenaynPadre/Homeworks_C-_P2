@@ -1,0 +1,15 @@
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\bin\Debug\net8.0\Task6.exe
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\bin\Debug\net8.0\Task6.deps.json
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\bin\Debug\net8.0\Task6.runtimeconfig.json
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\bin\Debug\net8.0\Task6.dll
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\bin\Debug\net8.0\Task6.pdb
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\obj\Debug\net8.0\Task6.sourcelink.json
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\obj\Debug\net8.0\Task6.dll
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\obj\Debug\net8.0\refint\Task6.dll
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\obj\Debug\net8.0\Task6.pdb
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork2\Task6\obj\Debug\net8.0\ref\Task6.dll
