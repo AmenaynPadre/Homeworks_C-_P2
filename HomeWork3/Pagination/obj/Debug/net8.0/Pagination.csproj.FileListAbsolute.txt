@@ -1,0 +1,15 @@
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\bin\Debug\net8.0\Pagination.exe
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\bin\Debug\net8.0\Pagination.deps.json
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\bin\Debug\net8.0\Pagination.runtimeconfig.json
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\bin\Debug\net8.0\Pagination.dll
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\bin\Debug\net8.0\Pagination.pdb
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\obj\Debug\net8.0\Pagination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\obj\Debug\net8.0\Pagination.AssemblyInfoInputs.cache
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\obj\Debug\net8.0\Pagination.AssemblyInfo.cs
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\obj\Debug\net8.0\Pagination.csproj.CoreCompileInputs.cache
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\obj\Debug\net8.0\Pagination.sourcelink.json
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\obj\Debug\net8.0\Pagination.dll
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\obj\Debug\net8.0\refint\Pagination.dll
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\obj\Debug\net8.0\Pagination.pdb
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\obj\Debug\net8.0\Pagination.genruntimeconfig.cache
+C:\Users\narek\source\repos\HomeWorkSolutionPart2\HomeWork3\Pagination\obj\Debug\net8.0\ref\Pagination.dll
